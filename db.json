@@ -1,15 +1,15 @@
 {
 "profiles":[
-  {"PNRno": 123456789,"name":"Akshay", "age": 21 , "TTEid": 1234, "LOCcrr": 00 },
-  { "PNRno": 123456788,"name":"Anand", "age": 24 , "TTEid": 1234, "LOCcrr": 00 },
-  {"PNRno": 123456787,"name":"Abhi", "age": 22 , "TTEid": 1234, "LOCcrr": 01, },
-  {"PNRno": 123456786,"name":"bhavesh", "age": 22 , "TTEid": 1234, "LOCcrr": 01 },
-  {"PNRno": 123456785,"name":"chandu", "age": 22 , "TTEid": 1234, "LOCcrr": 02 },
-  {"PNRno": 123456784,"name":"sagar", "age": 22 , "TTEid": 1234 , "LOCcrr": 02},
-  {"PNRno": 123456789,"name":"amit", "age": 22 , "TTEid": 1234, "LOCcrr": 00 },
-  {"PNRno": 123456789,"name":"pratik", "age": 22 , "TTEid": 1234, "LOCcrr": 00 },
-  {"PNRno": 123456789,"name":"prasad", "age": 22 , "TTEid": 1234, "LOCcrr": 00 },
-  {"PNRno":123456788,"name":"pranit", "age": 22 ,"TTEid" :1234 , "LOCcrr" :00 ,}
+  {"PNRno": 123456789,"name":"Akshay", "age": 21 , "TTEid": 1234 },
+  { "PNRno": 123456788,"name":"Anand", "age": 24 , "TTEid": 1234 },
+  {"PNRno": 123456787,"name":"Abhi", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456786,"name":"bhavesh", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456785,"name":"chandu", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456784,"name":"sagar", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456789,"name":"amit", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456789,"name":"pratik", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456789,"name":"prasad", "age": 22 , "TTEid": 1234 },
+  {"PNRno":123456788,"name":"pranit", "age": 22 ,"TTEid" :1234 }
   ]
 }
   

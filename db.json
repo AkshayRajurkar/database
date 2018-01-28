@@ -3,7 +3,7 @@
   {"PNRno": 123456789,"name":"Akshay", "age": 21 , "TTEid": 1234 },
   {"PNRno": 123456788,"name":"Anand", "age": 24 , "TTEid": 1234 },
   {"PNRno": 123456787,"name":"Aky", "age": 22 , "TTEid": 1234 },
-  {"PNRno": 123456786,"name":"Aky", "age": 22 , "TTEid": 1234 },
+  {"PNRno": 123456786,"name":"Aky", "age": 22 , "TTEid": 1234 }
    ]
 
 }

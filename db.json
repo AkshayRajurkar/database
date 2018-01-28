@@ -2,7 +2,7 @@
 "profiles":[
   {"ID": 1,"name":"Akshay", "age": 21},
   {"ID": 2,"name":"asd", "age": 21},
-  {"ID": 3,"name":"Aks", "age": 22},
+  {"ID": 3,"name":"Aks", "age": 22}
 ]
 
 }

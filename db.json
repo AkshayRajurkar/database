@@ -1,8 +1,8 @@
 {
 "profiles":[
-  {"ID": 1,"name":"Akshay", "age": 21},
-  {"ID": 2,"name":"asd", "age": 21},
-  {"ID": 3,"name":"Aks", "age": 22}
-]
+  {"PNR_no": 123456789,"name":"Akshay", "age": 21 ,"TTE_ID" : },
+  {"PNR_no": 123456788,"name":"Anand", "age": 24 ,"TTE_ID" : },
+  {"PNR_no": 123456787,"name":"Aky", "age": 22 ,"TTE_ID" : }
+   ]
 
 }

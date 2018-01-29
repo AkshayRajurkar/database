@@ -1,6 +1,6 @@
 {
 "profiles":[
-  { "CRRloc": "00" , "PNRno": 123456789, "name":"Akshay", "Age": 21, "sex":"M","SeatNo": '01S1' },
+  { "CRRloc": "00" , "PNRno": 123456789, "name":"Akshay", "Age": 21, "sex":"M","SeatNo": "01S1" },
   { "CRRloc": "00" , "PNRno": 123456788,  "name":"Anand", "Age": 22, "sex":"M","SeatNo":"S109" },
   { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Abhi", "Age": 23, "sex":"M", "SeatNo":"S105" },
   { "CRRloc": "01" ,"PNRno": 123456787,  "name":"bhavesh", "Age": 21,"sex":"M", "SeatNo":"S106" },

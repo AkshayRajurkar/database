@@ -1,15 +1,15 @@
 {
 "profiles":[
-  { "CRRloc": "00" , "PNRno": 123456789, "name":"Akshay", "Age": 21, "TTEid": 1234 },
-  { "CRRloc": "00" , "PNRno": 123456788,  "name":"Anand", "Age": 22, "TTEid": 1234 },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Abhi", "Age": 23, "TTEid": 1234 },
-  { "CRRloc": "01" ,"PNRno": 123456786,  "name":"bhavesh", "Age": 21, "TTEid": 1234 },
-  { "CRRloc": "02" ,"PNRno": 123456785,  "name":"chandu", "Age": 24,"TTEid": 1234 },
-  { "CRRloc": "02" ,"PNRno": 123456784,  "name":"sagar",  "Age": 21,"TTEid": 1234 },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"amit",  "Age": 25, "TTEid": 1234 },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"pratik", "Age": 25, "TTEid": 1234 },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"prasad", "Age": 21, "TTEid": 1234 },
-  { "CRRloc": "00" ,"PNRno":123456788,  "name":"pranit", "Age": 22, "TTEid" :1234 }
+  { "CRRloc": "00" , "PNRno": 123456789, "name":"Akshay", "Age": 21, "TTEid": 1234 ,"M" },
+  { "CRRloc": "00" , "PNRno": 123456788,  "name":"Anand", "Age": 22, "TTEid": 1234 ,"M"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Abhi", "Age": 23, "TTEid": 1234,"M" },
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"bhavesh", "Age": 21, "TTEid": 1234 ,"M"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"chandu", "Age": 24,"TTEid": 1234 ,"M"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"sagar",  "Age": 21,"TTEid": 1234 ,"M"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"amit",  "Age": 25, "TTEid": 1234 ,"M"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"pratik", "Age": 25, "TTEid": 1234 ,"M"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"prasad", "Age": 21, "TTEid": 1234 ,"M"},
+  { "CRRloc": "00" ,"PNRno":123456788,  "name":"pranit", "Age": 22, "TTEid" :1234 ,"M"}
   ]
 }
   

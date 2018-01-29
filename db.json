@@ -1,17 +1,17 @@
 {
 "profiles":[
   { "CRRloc": "00" , "PNRno": 123456789, "name":"Akshay", "Age": 21, "sex":"M","SeatNo": "01 S1" ,"Source":"Shegaon","Dest":"Badnera" },
-  { "CRRloc": "00" , "PNRno": 123456788,  "name":"Anand", "Age": 22, "sex":"M","SeatNo":"11 S1" },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Abhi", "Age": 23, "sex":"M", "SeatNo":"05 S1" },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"bhavesh", "Age": 21,"sex":"M", "SeatNo":"06 S1" },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"chandu", "Age": 24,"sex":"M", "SeatNo":"07 S1" },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"sagar",  "Age": 21,"sex":"M", "SeatNo":"08 S1" },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"amit",  "Age": 25, "sex":"M", "SeatNo":"02 S1" },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"pratik", "Age": 25,"sex":"M", "SeatNo":"03 S1" },
-  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"prasad", "Age": 21,"sex":"M", "SeatNo":"04 S1" },
-  { "CRRloc": "00" ,"PNRno":123456788,  "name":"pranit", "Age": 22, "sex":"M", "SeatNo":"12 S1" },
-   { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Saurabh", "Age": 23, "sex":"M", "SeatNo":"09 S1" },
-  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Vikrant", "Age": 21,"sex":"M", "SeatNo":"10 S1" }
+  { "CRRloc": "00" , "PNRno": 123456788,  "name":"Anand", "Age": 22, "sex":"M","SeatNo":"11 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Abhi", "Age": 23, "sex":"M", "SeatNo":"05 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"bhavesh", "Age": 21,"sex":"M", "SeatNo":"06 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"chandu", "Age": 24,"sex":"M", "SeatNo":"07 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"sagar",  "Age": 21,"sex":"M", "SeatNo":"08 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"amit",  "Age": 25, "sex":"M", "SeatNo":"02 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"pratik", "Age": 25,"sex":"M", "SeatNo":"03 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "00" ,"PNRno": 123456789,  "name":"prasad", "Age": 21,"sex":"M", "SeatNo":"04 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "00" ,"PNRno":123456788,  "name":"pranit", "Age": 22, "sex":"M", "SeatNo":"12 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+   { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Saurabh", "Age": 23, "sex":"M", "SeatNo":"09 S1" ,"Source":"Shegaon","Dest":"Badnera"},
+  { "CRRloc": "01" ,"PNRno": 123456787,  "name":"Vikrant", "Age": 21,"sex":"M", "SeatNo":"10 S1" ,"Source":"Shegaon","Dest":"Badnera"}
  
   ]
 }

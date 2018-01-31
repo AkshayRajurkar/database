@@ -17,7 +17,7 @@
   { "CRRloc": "02" ,"PNRno": 123456785,  "name":"Ram", "Age": 24,"sex":"M", "SeatNo":"15 S1" ,"Source":"Badnera","Dest":"Nagpur"},
   { "CRRloc": "02" ,"PNRno": 123456785,  "name":"Amaya",  "Age": 21,"sex":"M", "SeatNo":"16 S1" ,"Source":"Badnera","Dest":"Nagpur"},
   { "CRRloc": "02" ,"PNRno": 123456782,  "name":"Piyush", "Age": 23, "sex":"M", "SeatNo":"17 S1" ,"Source":"Akola","Dest":"Nagpur"},
-  { "CRRloc": "02" ,"PNRno": 123456782,  "name":"Minakshi", "Age": 21,"sex":"F", "SeatNo":"18 S1" ,"Source":"Akola","Dest":"Nagpur"},
+  { "CRRloc": "02" ,"PNRno": 123456782,  "name":"Minakshi", "Age": 21,"sex":"F", "SeatNo":"18 S1" ,"Source":"Akola","Dest":"Nagpur"}
   
   ]
 }
